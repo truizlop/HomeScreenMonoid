@@ -1,3 +1,3 @@
-# HomeScreenMonoid
+# Your iOS Home Screen is a Monoid
 
-A description of this package.
+For further info, read the series of blog posts starting [here](https://www.47deg.com/blog/home-screen-monoid-i/).
